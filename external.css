@@ -44,3 +44,21 @@ h1 span {
     background-repeat: no-repeat;
     background-size: cover;
 }
+#contacts img {
+	height: 50px;
+	width: 50px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+#contacts {
+	opacity: 0.9;
+}
+#contacts {
+    text-align: center;
+}
+.copyright {
+	font-size: 8pt;
+	text-align: right;
+	padding-bottom: 10px;
+	color: grey;
+}
